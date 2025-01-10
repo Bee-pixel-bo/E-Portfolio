@@ -7,13 +7,7 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
-    - icon: github
-      text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://www.linkedin.com/in/beatrice-somuah-514548246
     - icon: envelope-at
       text: Email
       href: mailto:beat1234@student.ubc.ca
@@ -21,4 +15,6 @@ about:
 
 #### Welcome to my E-Potfolio
 
-My name is Beatrice Somuah, a student at the University of British Columbia, reading masters in Geomatics for Environmental Management. I am very passionate about forest carbon projects and how we can use nature based solutions to reduce the impacts of climate change in the world.
+My name is Beatrice Somuah, and I am currently pursuing a Master’s degree in Geomatics for Environmental Management at the University of British Columbia. I am deeply passionate about leveraging forest carbon projects and nature-based solutions to address the pressing challenges of climate change.
+
+With a strong background in geography and expertise in GIS, remote sensing, and data analysis, I am committed to driving sustainable environmental management practices. My goal is to contribute to building resilient ecosystems while promoting innovative strategies to mitigate the global impacts of climate change.
