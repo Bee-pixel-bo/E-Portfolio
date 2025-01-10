@@ -1,6 +1,6 @@
 ---
 title: "My E-Portfolio"
-image: "C:/Users/beat1234.stu/Downloads/WhatsApp Image 2024-12-29 at 18.22.46.jpeg"
+image: "C:/Users/beat1234.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/WhatsApp Image 2024-12-29 at 18.22.46.jpeg"
 about:
   template: trestles
   image-width: 20em
