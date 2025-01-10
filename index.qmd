@@ -1,6 +1,6 @@
 ---
-title: "Your E-Portfolio"
-image: images/MGEM_logo.png
+title: "My E-Portfolio"
+image: "C:/Users/beat1234.stu/Downloads/WhatsApp Image 2024-12-29 at 18.22.46.jpeg"
 about:
   template: trestles
   image-width: 20em
@@ -16,9 +16,9 @@ about:
       href: https://github.com/ramonmelser
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:beat1234@student.ubc.ca
 ---
 
-Hey there,
+#### Welcome to my E-Potfolio
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites. 
+My name is Beatrice Somuah, a student at the University of British Columbia, reading masters in Geomatics for Environmental Management. I am very passionate about forest carbon projects and how we can use nature based solutions to reduce the impacts of climate change in the world.
